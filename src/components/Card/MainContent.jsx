@@ -17,8 +17,9 @@ export default function MainContent({ showMap, toggleMap }) {
           chương trình học và sắp bước vào ngày trọng đại nhất - Lễ Tốt Nghiệp!
           <br className="hidden sm:block" />
           <span className="sm:hidden"> </span>
-          Tôi rất mong được chia sẻ niềm vui này cùng với bạn - người bạn thân
-          thiết đã luôn đồng hành và ủng hộ tôi suốt thời gian qua.
+          Tôi rất mong được chia sẻ niềm vui này cùng với bạn -những người bạn
+          thân thiết đã luôn đồng hành và ủng hộ tôi suốt thời gian qua .Thế
+          thôi hẹ hẹ hẹ...
         </p>
       </div>
       <div className="space-y-2 sm:space-y-6 mb-4 sm:mb-8">
