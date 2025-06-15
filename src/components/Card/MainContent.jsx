@@ -28,7 +28,7 @@ export default function MainContent({ showMap, toggleMap }) {
           title="Thời gian"
           detail="Thứ Tư, 18/06/2025"
         />
-        <EventItem icon="clock" title="Giờ" detail="1:00 PM" />
+        <EventItem icon="clock" title="Giờ" detail="1:00 PM - 5:00 PM" />
         <EventItem
           icon="map"
           title="Địa điểm"
