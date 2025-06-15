@@ -3,7 +3,6 @@ import SparklesBackground from "./SparklesBackground";
 import Header from "./Header";
 import MainContent from "./MainContent";
 import Footer from "./Footer";
-import ContactInfo from "./ContactInfo";
 
 export default function GraduationInvitation() {
   const [isVisible, setIsVisible] = useState(false);
@@ -36,7 +35,6 @@ export default function GraduationInvitation() {
           <MainContent showMap={showMap} toggleMap={toggleMap} />
           <Footer />
         </div>
-        <ContactInfo />
       </div>
       <style>{`
         @keyframes spin-slow {

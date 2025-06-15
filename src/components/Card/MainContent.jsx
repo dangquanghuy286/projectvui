@@ -8,17 +8,18 @@ export default function MainContent({ showMap, toggleMap }) {
           Lễ Tốt Nghiệp
         </h2>
         <div className="w-12 sm:w-24 h-0.5 sm:h-1 bg-gradient-to-r from-purple-400 to-pink-400 mx-auto rounded-full mb-3 sm:mb-6"></div>
-        <p className="text-sm sm:text-lg text-gray-700 leading-relaxed mb-4 sm:mb-8 px-2">
+        <p className="text-base sm:text-lg text-gray-800 leading-relaxed sm:leading-loose mb-6 sm:mb-10 px-4 sm:px-6 text-justify">
           Thân gửi{" "}
-          <span className="font-bold text-purple-600">bạn thân của tôi</span>
-          ,<br className="hidden sm:block" />
-          <span className="sm:hidden"> </span>
+          <span className="font-semibold text-purple-600">
+            những người bạn của tôi
+          </span>
+          ,<br />
           Sau những năm tháng học tập vất vả, cuối cùng tôi cũng đã hoàn thành
-          chương trình học và sắp bước vào ngày trọng đại nhất - Lễ Tốt Nghiệp!
-          <br className="hidden sm:block" />
-          <span className="sm:hidden"> </span>
-          Tôi rất mong được chia sẻ niềm vui này cùng với bạn -những người bạn
-          thân thiết đã luôn đồng hành và ủng hộ tôi suốt thời gian qua .Thế
+          chương trình học và sắp bước vào ngày trọng đại nhất –{" "}
+          <span className="font-semibold text-purple-600">Lễ Tốt Nghiệp!</span>
+          <br />
+          Tôi rất mong được chia sẻ niềm vui này cùng với bạn – những người bạn
+          thân thiết đã luôn đồng hành và ủng hộ tôi suốt thời gian qua. Thế
           thôi hẹ hẹ hẹ...
         </p>
       </div>
